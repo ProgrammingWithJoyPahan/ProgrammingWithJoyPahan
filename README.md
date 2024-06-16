@@ -1,6 +1,6 @@
 Hi there 👋
 
-I am Rafat Jamader Meraz. I'm currently working on Mobile Development. As mobile app devleoper I use Flutter which is a framework for cross platform native app development and I really love it.
+I am Joy Pahan. I'm currently working on Mobile Development. As mobile app devleoper I use Flutter which is a framework for cross platform native app development and I really love it.
 
 Skills I have
 Languages : C, Dart, Swift, Go
