@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi there 👋
 
-<!--
-**ProgrammingWithJoyPahan/ProgrammingWithJoyPahan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Rafat Jamader Meraz. I'm currently working on Mobile Development. As mobile app devleoper I use Flutter which is a framework for cross platform native app development and I really love it.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills I have
+Languages : C, Dart, Swift, Go
+Frameworks : Flutter, iOS
+Database: MySQL, SQL Server, SQLite, Postgresql
+Strong knowledge in RESTful web-services/API
+Experience with architecture design concepts and techniques and have the ability to communicate and evangelize those concepts to a board-based team
+Have good experience with Unit testing
+Good problem solving skill
+Adobe XD & Figma for UI/UX
+Proper knowledge of Github
+Know about business analysi
