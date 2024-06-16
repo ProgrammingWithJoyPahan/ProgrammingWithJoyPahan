@@ -1,10 +1,10 @@
  
 ![Flutter Developer || Programmer ](https://scontent.fdac37-1.fna.fbcdn.net/v/t39.30808-6/448547241_434589432788469_2025780838488004807_n.jpg?stp=dst-jpg_s960x960&_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeG57EaIVDUr2ozx0E36gOmYjjT-RZuedKGONP5Fm550oax7ARY9INg4m0DU-YqouA-laz9l1_Q0z3BbytxWYm6u&_nc_ohc=fEbnBQLPMIsQ7kNvgHV_TIw&_nc_ht=scontent.fdac37-1.fna&oh=00_AYCEKmjRJGdZmz5PPxXJlKR9afI7U5pRc34uGIBRCU5LhA&oe=667450A9)
 
-### Hi there 👋, I'm Joy Pahan
-#### Flutter Developer || Programmer
+#### Hi there 👋, I'm Joy Pahan
+### Flutter Developer || Programmer
 
-## I am Joy Pahan. I'm currently working on Mobile Development. As mobile app devleoper I use Flutter which is a framework for cross platform native app development and I really love it.
+# I am Joy Pahan. I'm currently working on Mobile Development. As mobile app devleoper I use Flutter which is a framework for cross platform native app development and I really love it.
 
 ## Skills I have
 - Languages : C, Dart, Swift, Go
